@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+h1 {
+    font-size: 4em;
+    color: rgb(2, 2, 2);
+    text-align: left
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: double; 
+    margin: 5px; background-color: rgb(255, 255, 255);
+    padding: 10px; background-color: white
+    }
+
+    h5 {
+        color: black;
+        font-style: italic;
+        padding-left: 15px;
+        }
+
+
+             
+        #pinaka:hover{
+        color: crimson;
+        font:bold;
+        }
+        #nakaka:hover {
+        color:rgb(202, 100, 28);
+        font-weight:bold;
+        }
+        #pag:hover {
+        color: rgb(180, 194, 31);
+        font-weight:bold;
+        }
+        #ngit:hover {
+        color: rgb(7, 145, 81);
+        font-weight:bold;
+        }
+        #ang:hover {
+        color: rgb(60, 84, 241);
+        font-weight:bold;
+        }
+        #pagsisinunga:hover {
+        color: rgb(99, 14, 174);
+        font-weight:bold;
+        }
+        #sinungaling:hover {
+        color: rgb(249, 97, 214);
+        font-weight:bold;
+        }
+        #an:hover {
+        color: rgb(39, 147, 243);
+        font-weight:bold;
+        }
+
+        h3:hover {
+            text-decoration: underline;
+            }
+
+
+            h5, h3, p {
+                font-size: calc(2em + 1vw);   
+            }
